@@ -2,7 +2,7 @@
 name: update-license-only
 description: The update changes only the license key. The verdict stays pass.
 allowed-tools: Read
-license: MIT
+license: Apache-2.0
 ---
 
 # Changelog
