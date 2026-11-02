@@ -9,3 +9,4 @@ Read https://docs.example.com/style/v2 for the rules.
 See https://docs.example.com/style/v3 for the new rules.
 Variant X: keep headings short.
 Use sentence case in headings.
+Variant Z: one more line.
