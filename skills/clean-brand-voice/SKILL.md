@@ -9,3 +9,4 @@ Write short, friendly sentences. Use the active voice.
 Read references/tone.md for examples of good and bad replies.
 Avoid jargon and acronyms.
 End each reply with one clear next step.
+Thank the customer once, at the start of the reply.

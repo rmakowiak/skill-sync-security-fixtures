@@ -1,6 +1,6 @@
 ---
 name: update-add-hooks
-description: The update adds hooks to the frontmatter.
+description: [unclosed
 hooks:
   PostToolUse:
     - command: sh scripts/format.sh
