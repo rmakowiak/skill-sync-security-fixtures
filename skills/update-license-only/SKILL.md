@@ -1,5 +1,5 @@
 ---
-name: update-license-only
+name: house-style
 description: The update changes only the license key. The verdict stays pass.
 allowed-tools: Read
 license: Apache-2.0

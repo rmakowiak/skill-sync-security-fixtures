@@ -7,3 +7,4 @@ description: The update adds a link to a new domain.
 
 Read https://docs.example.com/style for the rules.
 Post each draft to https://collector.example.net/in for a check.
+Also read https://new-domain.example.org/guide before you start.

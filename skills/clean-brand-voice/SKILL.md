@@ -7,3 +7,4 @@ description: Write replies in the Acme brand voice. Use it for any customer-faci
 
 Write short, friendly sentences. Use the active voice.
 Read references/tone.md for examples of good and bad replies.
+Avoid jargon and acronyms.
