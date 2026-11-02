@@ -8,3 +8,4 @@ description: The update adds a link on a known domain. The verdict stays pass.
 Read https://docs.example.com/style/v2 for the rules.
 See https://docs.example.com/style/v3 for the new rules.
 Variant X: keep headings short.
+Use sentence case in headings.
